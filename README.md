@@ -1,2 +1,2 @@
 # Yelp-Challenge-Dataset-Information-Retrieval
-Built a recommendation system based on user reviews and restaurant categories
+Built a recommendation system based on user reviews and restaurant categories and filtered the data for three major cities - Charlotte, Scottsdale and Pittsburgh. Employed techniques like Non-Negative Matrix Factorization (NMF), Term Frequency Inverse Document Frequency (TF-IDF), Document to Vector (Doc2Vec) and word2vec with Latent Dirichlet Allocation (LDA) to create Collaborative Filtering and Content-Based Recommendation Systems.
